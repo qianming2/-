@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ed86225-bb48-4717-a22b-1cd0227a53e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ihrm@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ihrm@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ihrm@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ihrm: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SaaS" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1YHkbne504Y0hVR6UVhSZ5HueR0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.28440368" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SaaS\ihrm_system\src\main\java\com\ihrm\system\utils" />
+      <recent name="E:\SaaS\ihrm_common\src\main\java\com\ihrm\common\util" />
+      <recent name="E:\SaaS\ihrm_common_model\src\main\java\com\ihrm\domain" />
+      <recent name="E:\SaaS\ihrm_common\src\main\java\com\ihrm\common\poi" />
+      <recent name="E:\SaaS\ihrm_eureka\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ihrm.company" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\SaaS\ihrm_employee\src\main\resources\excel-tempate" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CompanyApplication">
+    <configuration name="CompanyApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ihrm.company.CompanyApplication" />
+      <module name="ihrm_company" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihrm.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ihrm.employee.EmployeeApplication" />
+      <module name="ihrm_employee" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihrm.employee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ihrm.system.SystemApplication" />
+      <module name="ihrm_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihrm.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="ihrm_eureka" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="ihrm_eureka" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ihrm_employee" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ihrm.employee.EmployeeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ihrm_Eurekas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihrm.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ihrm.eureka.EurekaServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ihrm_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihrm.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ihrm.system.SystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CompanyApplication" />
+      <item itemvalue="Application.EmployeeApplication" />
+      <item itemvalue="Application.SystemApplication" />
+      <item itemvalue="Spring Boot.EmployeeApplication" />
+      <item itemvalue="Spring Boot.EurekaServer" />
+      <item itemvalue="Spring Boot.SystemApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CompanyApplication" />
+        <item itemvalue="Application.EmployeeApplication" />
+        <item itemvalue="Application.SystemApplication" />
+        <item itemvalue="Spring Boot.EurekaServer" />
+        <item itemvalue="Spring Boot.SystemApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ed86225-bb48-4717-a22b-1cd0227a53e5" name="Default Changelist" comment="" />
+      <created>1582606980136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582606980136</updated>
+      <workItem from="1582606982714" duration="1863000" />
+      <workItem from="1582608870678" duration="4189000" />
+      <workItem from="1582613095208" duration="858000" />
+      <workItem from="1582613968928" duration="10370000" />
+      <workItem from="1582702363629" duration="7281000" />
+      <workItem from="1582959580853" duration="3116000" />
+      <workItem from="1582980327682" duration="4154000" />
+      <workItem from="1583045392916" duration="6374000" />
+      <workItem from="1583078255932" duration="5141000" />
+      <workItem from="1583134005427" duration="8334000" />
+      <workItem from="1583219923984" duration="9224000" />
+      <workItem from="1583241750054" duration="6633000" />
+      <workItem from="1583307651323" duration="7137000" />
+      <workItem from="1583393347980" duration="6551000" />
+      <workItem from="1583472357372" duration="12249000" />
+      <workItem from="1583569218468" duration="3149000" />
+      <workItem from="1583649144934" duration="9492000" />
+      <workItem from="1583670325859" duration="2011000" />
+      <workItem from="1583757559104" duration="516000" />
+      <workItem from="1583765052337" duration="1136000" />
+      <workItem from="1583824566418" duration="7485000" />
+      <workItem from="1583905421929" duration="3703000" />
+      <workItem from="1583909151905" duration="361000" />
+      <workItem from="1583909528801" duration="791000" />
+      <workItem from="1583910337443" duration="20000" />
+      <workItem from="1583910811766" duration="346000" />
+      <workItem from="1583911174583" duration="176000" />
+      <workItem from="1583911461669" duration="280000" />
+      <workItem from="1583911836525" duration="87000" />
+      <workItem from="1583911980627" duration="202000" />
+      <workItem from="1583912482763" duration="189000" />
+      <workItem from="1583912682078" duration="1693000" />
+      <workItem from="1583914655808" duration="3054000" />
+      <workItem from="1584083706551" duration="6613000" />
+      <workItem from="1584090343372" duration="994000" />
+      <workItem from="1584164738125" duration="6391000" />
+      <workItem from="1584252057999" duration="12573000" />
+      <workItem from="1584332542911" duration="10578000" />
+      <workItem from="1584343361214" duration="3340000" />
+      <workItem from="1584378375435" duration="4331000" />
+      <workItem from="1584419934579" duration="6264000" />
+      <workItem from="1584466172932" duration="1021000" />
+      <workItem from="1584467204567" duration="644000" />
+      <workItem from="1584507860343" duration="1746000" />
+      <workItem from="1584509626281" duration="45000" />
+      <workItem from="1584509684375" duration="3181000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="301" y="42" key="#Assign_Data_Sources" timestamp="1584086074446">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="301" y="42" key="#Assign_Data_Sources/0.0.1360.728@0.0.1360.728" timestamp="1584086074446" />
+    <state x="278" y="22" key="#EurekaServer" timestamp="1583914264761">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="278" y="22" key="#EurekaServer/0.0.1360.728@0.0.1360.728" timestamp="1583914264761" />
+    <state x="134" y="34" key="#HTTP_Proxy" timestamp="1582619550857">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="134" y="34" key="#HTTP_Proxy/0.0.1360.728@0.0.1360.728" timestamp="1582619550857" />
+    <state x="272" y="22" key="#Inspections" timestamp="1582712223353">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="272" y="22" key="#Inspections/0.0.1360.728@0.0.1360.728" timestamp="1582712223353" />
+    <state x="272" y="22" key="#Live_Templates" timestamp="1583765493384">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="272" y="22" key="#Live_Templates/0.0.1360.728@0.0.1360.728" timestamp="1583765493384" />
+    <state x="272" y="22" key="#Project_Structure" timestamp="1584088749803">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="272" y="22" key="#Project_Structure/0.0.1360.728@0.0.1360.728" timestamp="1584088749803" />
+    <state x="134" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583910317917">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="134" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1583910317917" />
+    <state x="398" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584085398350">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="398" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1584085398350" />
+    <state x="485" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1583654639947">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="485" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1360.728@0.0.1360.728" timestamp="1583654639947" />
+    <state x="334" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583652956148">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="334" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1360.728@0.0.1360.728" timestamp="1583652956148" />
+    <state x="382" y="251" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583908470224">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="382" y="251" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1360.728@0.0.1360.728" timestamp="1583908470224" />
+    <state x="460" y="118" key="FileChooserDialogImpl" timestamp="1584348724023">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="118" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1584348724023" />
+    <state width="1317" height="144" key="GridCell.Tab.0.bottom" timestamp="1584512867581">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="144" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1584512867581" />
+    <state width="1317" height="144" key="GridCell.Tab.0.center" timestamp="1584512867581">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="144" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1584512867581" />
+    <state width="1317" height="144" key="GridCell.Tab.0.left" timestamp="1584512867581">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="144" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1584512867581" />
+    <state width="1317" height="144" key="GridCell.Tab.0.right" timestamp="1584512867581">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="144" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1584512867581" />
+    <state width="1317" height="399" key="GridCell.Tab.1.bottom" timestamp="1584512866255">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="399" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1584512866255" />
+    <state width="1317" height="399" key="GridCell.Tab.1.center" timestamp="1584512866255">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="399" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1584512866255" />
+    <state width="1317" height="399" key="GridCell.Tab.1.left" timestamp="1584512866255">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="399" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1584512866255" />
+    <state width="1317" height="399" key="GridCell.Tab.1.right" timestamp="1584512866255">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="399" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1584512866255" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1584089708079">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1360.728@0.0.1360.728" timestamp="1584089708079" />
+    <state x="210" y="18" key="Maven.ArtifactSearchDialog" timestamp="1584424370518">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="210" y="18" key="Maven.ArtifactSearchDialog/0.0.1360.728@0.0.1360.728" timestamp="1584424370518" />
+    <state x="181" y="0" key="SettingsEditor" timestamp="1583917833799">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="181" y="0" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1583917833799" />
+    <state x="459" y="186" width="441" height="339" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1584087410382">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="459" y="186" width="441" height="339" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1360.728@0.0.1360.728" timestamp="1584087410382" />
+    <state x="536" y="110" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1582708299602">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="536" y="110" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1360.728@0.0.1360.728" timestamp="1582708299602" />
+    <state x="360" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1584509683889">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="360" y="187" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1584509683889" />
+    <state x="35" y="13" key="new project wizard" timestamp="1584425912927">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="35" y="13" key="new project wizard/0.0.1360.728@0.0.1360.728" timestamp="1584425912927" />
+    <state x="336" y="162" width="672" height="677" key="run.anything.popup" timestamp="1584255898030">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="336" y="162" width="672" height="677" key="run.anything.popup/0.0.1360.728@0.0.1360.728" timestamp="1584255898030" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583913870971">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1583913870971" />
+  </component>
+</project>

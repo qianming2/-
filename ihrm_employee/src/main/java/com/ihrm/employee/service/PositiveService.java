@@ -1,0 +1,45 @@
+package com.ihrm.employee.service;
+
+import com.ihrm.domain.employee.EmployeePositive;
+import com.ihrm.employee.dao.PositiveDao;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import java.util.Date;
+import java.util.Optional;
+
+@Service
+public class PositiveService {
+    @Autowired
+    private PositiveDao positiveDao;
+
+    /**
+     * 根据id查询
+     * */
+    public EmployeePositive findById(String uid,Integer status){
+        EmployeePositive positive = positiveDao.findByUserId(uid);
+        if (status!=null && positive != null){
+            if (positive.getEstatus()!=status){
+                positive=null;
+            }
+        }
+    return positive;
+    }
+
+    /**
+     * 根据id查询
+     * */
+    public EmployeePositive findById(String uid){
+        EmployeePositive positive = positiveDao.findByUserId(uid);
+        return positive;
+    }
+
+    /**
+     * 保存
+     * */
+    public void save(EmployeePositive positive) {
+        positive.setCreateTime(new Date());
+        positive.setEstatus(1);//未执行
+        positiveDao.save(positive);
+    }
+}

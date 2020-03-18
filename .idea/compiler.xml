@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ihrm_system" />
+        <module name="wffq" />
+        <module name="ihrm_company" />
+        <module name="ihrm_employee" />
+        <module name="ihrm_eurek" />
+        <module name="ihrm-system" />
+        <module name="ihrm_common_model" />
+        <module name="ihrm_Eurekas" />
+        <module name="ihrm_common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ihrm-system" target="1.8" />
+      <module name="ihrm_eurek" target="1.8" />
+      <module name="ihrm_Eureka" target="1.8" />
+      <module name="ihrm_eureka" target="1.8" />
+      <module name="ihrm_eurekas" target="1.8" />
+      <module name="wffq" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ihrm-system" options="-parameters" />
+      <module name="ihrm_Eureka" options="-parameters" />
+      <module name="ihrm_Eurekas" options="-parameters" />
+      <module name="ihrm_common" options="-parameters" />
+      <module name="ihrm_common_model" options="-parameters" />
+      <module name="ihrm_company" options="-parameters" />
+      <module name="ihrm_employee" options="-parameters" />
+      <module name="ihrm_eurek" options="-parameters" />
+      <module name="ihrm_eureka" options="-parameters" />
+      <module name="ihrm_eurekas" options="-parameters" />
+      <module name="ihrm_system" options="-parameters" />
+      <module name="wffq" options="-parameters" />
+    </option>
+  </component>
+</project>
